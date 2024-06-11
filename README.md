@@ -47,6 +47,11 @@ Overall, the analysis of the Adult Smoking Habits in the UK dataset is a valuabl
 3. Merging our primary dataset, "Adult Smoking Habits in the UK," with additional datasets on smoking based on occupation and data on e-cigarette usage in the UK.
 4. Condensing the extensive datasets into compact pivot tables for comprehension.
 
+## Acknowledgements 😼
+Team members who made this project possible
+1. Priyanka Singh
+2. Omkar Pawar
+3. Akshay Deshmukh
 
 
 
