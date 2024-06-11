@@ -1,6 +1,6 @@
 # Data-Analysis-on-Adult-Smoking-Patterns-in-the-UK
 
-## Aim
+## Aim 🔍
 The aim of this analysis is to understand the smoking patterns among adults in the UK. 
 
 ## Introduction 📊
