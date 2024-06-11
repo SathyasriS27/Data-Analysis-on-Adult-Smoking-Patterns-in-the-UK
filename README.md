@@ -31,7 +31,7 @@ Overall, the analysis of the Adult Smoking Habits in the UK dataset is a valuabl
 ## System Design
 ### Architecture
 
-<img width="767" alt="Screenshot 2024-06-11 at 16 52 03" src="https://github.com/SathyasriS27/Data-Analysis-on-Adult-Smoking-Patterns-in-the-UK/assets/80045599/913c5e4f-42ab-4028-9ac1-7ae09f483da0">
+<div align="center"><img width="767" alt="Screenshot 2024-06-11 at 16 52 03" src="https://github.com/SathyasriS27/Data-Analysis-on-Adult-Smoking-Patterns-in-the-UK/assets/80045599/913c5e4f-42ab-4028-9ac1-7ae09f483da0"></div>
 
 
 * Step 1 - Sourcing Data : The data on Adult Smoking Habits in the UK was obtained from the Office of National Statistics.
