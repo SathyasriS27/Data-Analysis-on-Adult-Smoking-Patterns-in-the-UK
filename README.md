@@ -34,12 +34,12 @@ Overall, the analysis of the Adult Smoking Habits in the UK dataset is a valuabl
 <img width="767" alt="Screenshot 2024-06-11 at 16 52 03" src="https://github.com/SathyasriS27/Data-Analysis-on-Adult-Smoking-Patterns-in-the-UK/assets/80045599/913c5e4f-42ab-4028-9ac1-7ae09f483da0">
 
 
-Step 1 - Sourcing Data : The data on Adult Smoking Habits in the UK was obtained from the Office of National Statistics.
-Step 2 - Data Quality Check : In this step, we examine the data for missing values, errors, and overall legitimacy to ensure its integrity.
-Step 3 - Understanding Data : This involves gaining clarity on the objectives of the analysis and determining the specific actions needed to be taken with the data.
-Step 4 - Data Transformation : Transforming the data based on our objectives, which may include removing values, organizing the data, normalising the data and creating pivot tables.
-Step 5 - Data Exploration : Conducting an exploration of the data to uncover patterns and trends.
-Step 6 - Result : Utilizing graphical visualizations to illustrate and interpret the results of our exploration objectives effectively.
+* Step 1 - Sourcing Data : The data on Adult Smoking Habits in the UK was obtained from the Office of National Statistics.
+* Step 2 - Data Quality Check : In this step, we examine the data for missing values, errors, and overall legitimacy to ensure its integrity.
+* Step 3 - Understanding Data : This involves gaining clarity on the objectives of the analysis and determining the specific actions needed to be taken with the data.
+* Step 4 - Data Transformation : Transforming the data based on our objectives, which may include removing values, organizing the data, normalising the data and creating pivot tables.
+* Step 5 - Data Exploration : Conducting an exploration of the data to uncover patterns and trends.
+* Step 6 - Result : Utilizing graphical visualizations to illustrate and interpret the results of our exploration objectives effectively.
 
 ### Processing Modules and Algorithms
 1. Converting the shape file (.shp) consisting of the boundaries for every county in the United Kingdom and adding their polygon geographic locations to a pandas dataframe using a library called geopandas. Merged this dataframe into the smokerspercentage dataset using the key ‘Local Authorities’ resulting to a dataframe with all values.
